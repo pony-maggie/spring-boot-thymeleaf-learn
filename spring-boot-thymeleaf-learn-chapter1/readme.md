@@ -2,7 +2,7 @@
 
 源码地址:
 
-https://github.com/pony-maggie/spring-security-learn
+https://github.com/pony-maggie/spring-boot-thymeleaf-learn
 
 第一章肯定要先引入概念。然后给一个基本的示例。
 
