@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Thymeleaf 表单示例</title>
+</head>
+<body>
+<h2>Thymeleaf 表单示例</h2>
+<form th:action="@{/saveBook}" th:object="${book}" method="POST">
+    <label for="bookName">书名:</label>
+    <input type="text" th:field="*{name}" value="" /><br/>
+
+    <label for="author">作者:</label>
+    <input type="text" th:field="*{author}" value="" /> <br/>
+
+    <label for="publish">出版商:</label>
+    <input type="text" th:field="*{publish}" value="" /> <br/>
+
+    <label for="price">价格 (RMB):</label>
+    <input type="text" th:field="*{price}" size="10" value="198" /><br/>
+
+    <input type="submit" value="提交"/>
+</form>
+</body>
+</html>

@@ -10,6 +10,7 @@
 
     <modules>
         <module>spring-boot-thymeleaf-learn-chapter1</module>
+		<module>spring-boot-thymeleaf-learn-chapter2</module>
     </modules>
 
     <parent>

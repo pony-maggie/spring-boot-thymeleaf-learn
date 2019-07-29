@@ -6,7 +6,7 @@ https://github.com/pony-maggie/spring-boot-thymeleaf-learn
 
 csdn博客地址:
 
-https://blog.csdn.net/pony_maggie/
+https://blog.csdn.net/pony_maggie/column/info/41955
 
 个人博客地址：
 
