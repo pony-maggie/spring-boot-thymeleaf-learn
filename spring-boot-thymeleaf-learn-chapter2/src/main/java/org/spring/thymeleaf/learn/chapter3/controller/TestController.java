@@ -1,9 +1,8 @@
-package org.spring.thymeleaf.learn.chapter2.controller;
+package org.spring.thymeleaf.learn.chapter3.controller;
 
-import org.spring.thymeleaf.learn.chapter2.entity.Book;
+import org.spring.thymeleaf.learn.chapter3.entity.Book;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 

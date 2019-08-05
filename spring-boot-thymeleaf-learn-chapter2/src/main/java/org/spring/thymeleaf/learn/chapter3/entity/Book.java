@@ -1,4 +1,4 @@
-package org.spring.thymeleaf.learn.chapter2.entity;
+package org.spring.thymeleaf.learn.chapter3.entity;
 
 public class Book {
     private String name;

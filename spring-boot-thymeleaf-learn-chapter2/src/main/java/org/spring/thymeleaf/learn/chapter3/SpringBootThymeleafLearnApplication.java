@@ -1,4 +1,4 @@
-package org.spring.thymeleaf.learn.chapter2;
+package org.spring.thymeleaf.learn.chapter3;
 
 
 import org.springframework.boot.SpringApplication;
